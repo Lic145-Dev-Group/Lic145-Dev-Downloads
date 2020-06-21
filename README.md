@@ -7,7 +7,7 @@ This is the Download Center of Lic145 Dev. Here you can download apps and games.
 * [Installation Guide](#Installation-Guide)
   + [Android](#Android)
   + [iOS](#iOS)
-    - [Jailbreakinstallingg](#Jailbreaking)
+    - [Jailbreakinstalling](#Jailbreaking)
       - [checkra1n Jailbreak](#checkra1n-jailbreakonly-for-mac)
       - [Unc0ver Jailbreak(Recomended)](#unc0ver-jailbreakrecomended)
     - [Installing requirements](#installing-requirements)
@@ -17,7 +17,7 @@ This is the Download Center of Lic145 Dev. Here you can download apps and games.
 
 ## Apps
 - *Lic145 App* - Timetables, Dieries and etc.   (Android, iOS, [Web](https://lic-145-development.web.app/#/)) *In developing.
-- **Flappy Bohonova** - Remake of Flappy Bird with favourite teacher.   ([iOS](https://github.com/Lic145-Dev-Group/Lic145-Dev-Downloads/blob/master/iOS%20Apps/flappy_bohonova.ipa)) 
+- **Flappy Bohonova** - Remake of Flappy Bird with favorite teacher.   ([iOS](https://github.com/Lic145-Dev-Group/Lic145-Dev-Downloads/blob/master/iOS%20Apps/flappy_bohonova.ipa)) 
 - *GlovoKPNL* - Telegram Bot to economy money on Glovo delivery.   ([Telegram Bot](https://t.me/glovokpnlbot)) *In developing.
 - *KPNL Anonymous Chat* - Telegram anonymous chat.   ([Telegram Bot](https://t.me/kpnlanonchatbot)) *In developing.
 
@@ -32,7 +32,9 @@ This is the Download Center of Lic145 Dev. Here you can download apps and games.
 
 ## iOS
 ### Jailbreaking:
-WARN: Jailbreak is not reccomended by Apple. All methods are collected for iOS 13.
+WARN: Jailbreak is not reccomended by Apple. All methods are collected for iOS 13. We are not responsible for any damage jailbreaking could cause.
+**You can also use your own method, you can find all app installers in [Apps](#Apps) section.**
+**If you are having some issues, [contact us](#Contact-us) or add them to [Issues](https://github.com/Lic145-Dev-Group/Lic145-Dev-Downloads/issues).
 - #### checkra1n Jailbreak(Only for mac):
 1. Download [chekra1n](https://checkra.in) from official website and follow the steps.
 ![alt text](https://github.com/Lic145-Dev-Group/Lic145-Dev-Downloads/blob/master/data/images/jailbreaking_checkra_1.png)
@@ -53,7 +55,7 @@ WARN: Installation steps described below are for Windows 10. If you are a macOS 
 6. Click the arrow icon near the network icon in the taskbar. This will bring up an menu with multiple icons. Look for a diamond shaped logo that says AltServer when mousing over it. Click on it.
 7. From the option brought up, hover over Install AltStore, and select your iOS device.
 8. Enter your Apple ID and password when prompted.
-9. On your iOS device, open Settings → General → Device Management and tap on your Apple ID.
+9. On your iOS device, open ``Settings`` → ``General`` → ``Device Management`` and tap on your Apple ID.
 10. Trust AltStore.
 11. Go to [uncover](https://unc0ver.dev) website and tap the "Open in AltStore" button located at the top of the page.
 11. If promoted, sign into the same Apple ID you used before.
@@ -74,7 +76,7 @@ WARN: Installation steps described below are for Windows 10. If you are a macOS 
 5. In the ``Sources`` section find ``AppCake`` repo and tap on it.
 6. Go to ``Tweaks`` and press on ``AppSync Unified``.
 7. Tap ``Install`` and wait untill action will be completed
-8. [Optional] Now go to step 5, but add repository https://repo.incendo.ws/. Then go to ``Matchstic`` repo => ``System`` => ``ReProvision``. Tap ``Install`` and wait until installation will be completed. ReProvision is iOS app sighner. It can sign app in that way, so it can be opened when device is not jaibroken.
+8. Now go to step 5, but add repository https://repo.incendo.ws/. Then go to ``Matchstic`` repo => ``System`` => ``ReProvision``. Tap ``Install`` and wait until installation will be completed. ReProvision is iOS app sighner. It can sign app in that way, so it can be opened when device is not jaibroken.
 9. Go to [AppCake](https://iphonecake.com/app/) website.
 10. Tap on ``I have jailbreak`` and press ``Install``
 
