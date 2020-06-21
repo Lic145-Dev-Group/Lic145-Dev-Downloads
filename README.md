@@ -16,10 +16,10 @@ This is the Download Center of Lic145 Dev. Here you can download apps and games.
  * [Contact Lic145 Dev.](#Contact-Lic145-Dev.)
 
 ## Apps
-- *Lic145 App* - Timetables, Dieries and etc.   (Android, iOS, [Web](https://lic-145-development.web.app/#/)) *In developing.
+- *Lic145 App* - Timetables, Dieries and etc.   (Android, iOS, [Web]()) *In developing.
 - **Flappy Bohonova** - Remake of Flappy Bird with favorite teacher.   ([iOS](https://github.com/Lic145-Dev-Group/Lic145-Dev-Downloads/blob/master/iOS%20Apps/flappy_bohonova.ipa)) 
-- *GlovoKPNL* - Telegram Bot to economy money on Glovo delivery.   ([Telegram Bot](https://t.me/glovokpnlbot)) *In developing.
-- *KPNL Anonymous Chat* - Telegram anonymous chat.   ([Telegram Bot](https://t.me/kpnlanonchatbot)) *In developing.
+- *GlovoKPNL* - Telegram Bot to economy money on Glovo delivery.   ([Telegram Bot]()) *In developing.
+- *KPNL Anonymous Chat* - Telegram anonymous chat.   ([Telegram Bot]()) *In developing.
 
 
 # Installation Guide
