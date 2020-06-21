@@ -7,7 +7,7 @@ This is the Download Center of Lic145 Dev. Here you can download apps and games.
 * [Installation Guide](#Installation-Guide)
   + [Android](#Android)
   + [iOS](#iOS)
-    - [Jailbreakinstalling](#Jailbreaking)
+    - [Jailbreaking](#Jailbreaking)
       - [checkra1n Jailbreak](#checkra1n-jailbreakonly-for-mac)
       - [Unc0ver Jailbreak(Recomended)](#unc0ver-jailbreakrecomended)
     - [Installing requirements](#installing-requirements)
