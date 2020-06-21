@@ -13,6 +13,7 @@ This is the Download Center of Lic145 Dev. Here you can download apps and games.
     - [Installing requirements](#installing-requirements)
     - [Installing app](#Installing-app)
     - [Small guide on ReProvision](#Small-guide-on-ReProvision) 
+    - [Alternatives](#Alternatives)
  * [Contact Lic145 Dev.](#Contact-Lic145-Dev.)
 
 ## Apps
