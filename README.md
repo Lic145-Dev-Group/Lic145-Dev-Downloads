@@ -123,7 +123,7 @@ This process is described in [Small guide on ReProvision](#Small-guide-on-ReProv
 
 ![alt text](https://github.com/Lic145-Dev-Group/Lic145-Dev-Downloads/blob/master/data/images/reprovision_warn.jpeg)
 
-3. Tap on ``Add`` or ``Sign``. Log into your Apple ID if needed.
+3. Tap on ``Add`` or ``Sign``. Press ``Continue``. Log into your Apple ID if needed.
 
 4. Wait untill signing/resigning will be completed.
 
