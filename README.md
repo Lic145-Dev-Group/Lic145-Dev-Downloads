@@ -129,6 +129,8 @@ This process is described in [Small guide on ReProvision](#Small-guide-on-ReProv
 
 5. Enjoy your app. :)
 
+### Alternatives
+Lic145 App Web version is availible. You can just add [Lic145 Web App]() to Home screen.
 
 ## Contact Lic145 Dev.
 You can contact us via our [Telegram Support Bot](https://link.to/) 
