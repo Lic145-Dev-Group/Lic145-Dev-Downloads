@@ -11,8 +11,8 @@ Download Center of Lic145 Dev.
  * [Contact Lic145 Dev.](#Contact-Lic145-Dev.)
 
 ## Apps
-- *Lic145 App* - Расписание, Время до урока и др.   (Android, iOS, [Web]()) *In developing.
-- *GlovoKPNL* - Telegram Bot для экономии денег на доставке Glovo.   ([Telegram Bot]()) *In developing.
+- *Lic145 App* - Расписание, Время до урока и др.   (Android, iOS, [Web]()) Будет доступно 14 сентября.
+- *GlovoKPNL* - Telegram Bot для экономии денег на доставке Glovo.   ([Telegram Bot]()) Будет доступно в середине сентября.
 
 
 # Гайды по установке
